@@ -1,7 +1,7 @@
 import puppeteer from "puppeteer";
 
 const SCRAPE_TIME = 6 * 60 * 60 * 1000;
-const URL = "https://www.andreaiyamah.com";
+const URL = "https://";
 
 interface Product {
   title: string;
